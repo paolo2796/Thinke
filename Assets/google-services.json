@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "323953893806",
+    "firebase_url": "https://thinke-8f2d4.firebaseio.com",
+    "project_id": "thinke-8f2d4",
+    "storage_bucket": "thinke-8f2d4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:323953893806:android:220c1964eaf357f6",
+        "android_client_info": {
+          "package_name": "com.Company.Thinke"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "323953893806-o73gsour83e80ftreo9r5m55tban5lv9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBI-msTFZakXfdg32WjNYaqBf9AMOGsH-o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
